@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .DS_Store
 reports/
+scratch_*.py
+__pycache__/
